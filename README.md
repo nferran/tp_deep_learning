@@ -1,12 +1,9 @@
-# tp_aprendizaje_profundo
+# tp_deep_learning
 ## CEIA Co12
 
 ### Alumno:
 - Ferrán, Natanael Emir
 
-Este repositorio cuenta con todos los trabajos prácticos correspondientes de la cursada:
-1. TP1
-2. TP2 pt.1
-3. TP2 pt.2
+Este repositorio contiene ambos trabajos prácticos en sus versiones finales
 
 ***
