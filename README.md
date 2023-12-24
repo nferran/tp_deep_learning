@@ -4,6 +4,6 @@
 ### Alumno:
 - Ferrán, Natanael Emir
 
-Este repositorio contiene ambos trabajos prácticos en sus versiones finales
+Este repositorio los dos trabajos prácticos correspondientes a la cursada en sus versiones finales
 
 ***
